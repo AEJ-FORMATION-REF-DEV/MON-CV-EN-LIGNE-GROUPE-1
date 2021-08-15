@@ -1,0 +1,46 @@
+body{
+    background-color:whitesmoke;
+}
+h3{
+    color: turquoise;
+}
+body
+{
+    border: 3px blue double;
+}
+img{
+    width: 230px;
+    height: 250px;
+}
+img{
+    width: 200;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+border-width: 3px;
+border-style: double;
+border-color: blue;
+}
+h2{
+    border-top: 3px double blue;
+}
+h2{
+   border-radius: 40p; 
+}
+.PHOTO{
+    margin-right: 20px;
+    width: 200px;
+    height: 200px
+}
+.section-left{
+    float: left;
+    text-align:left;   
+}
+.section-right{
+    float: right;
+    text-align: right;
+
+
+}
